@@ -242,7 +242,7 @@ nav a:hover{
 }
 .Text3{
     font-size:80px;
-    font-weight: 500;
+    font-weight: 400;
     padding-bottom: 20px;
 }
 .SubText3{
@@ -252,7 +252,7 @@ nav a:hover{
     padding-bottom: 15vh;
 }
 .grad3{
-    font-weight: 1000;
+    font-weight: 800;
     background: linear-gradient(91deg, #69d7eb 14.36%, rgba(0, 208, 223, 0.877) 31.9%, rgba(209, 0, 0, 0.911) 50.83%);
     background-clip: text;
     -webkit-background-clip: text;
@@ -343,14 +343,14 @@ nav a:hover{
     font-weight: 300;
 }
 .grad4{
-    font-weight: 1000;
+    font-weight: 800;
     background: var(--Pre, linear-gradient(140deg, #0C33FF 5.3%, #7B003B 35.57%, #FF2E00 69.89%, rgb(105, 0, 0) 100.97%, #FF2E00 100.97%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .grad5{
-    font-weight: 1000;
+    font-weight: 800;
     background: linear-gradient(129deg, #0C33FF 10.71%, #7B003B 26.96%, #FF2E00 72.19%, #30F 91.9%, #FF2E00 110%);
     background-clip: text;
     background-clip: text;
