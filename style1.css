@@ -342,16 +342,15 @@ nav a:hover{
     font-weight: 300;
 }
 .grad4{
-    font-weight: 800;
+    font-weight: 700;
     background: var(--Pre, linear-gradient(140deg, #0C33FF 5.3%, #7B003B 35.57%, #FF2E00 69.89%, rgb(105, 0, 0) 100.97%, #FF2E00 100.97%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .grad5{
-    font-weight: 800;
+    font-weight: 700;
     background: linear-gradient(129deg, #0C33FF 10.71%, #7B003B 26.96%, #FF2E00 72.19%, #30F 91.9%, #FF2E00 110%);
-    background-clip: text;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
